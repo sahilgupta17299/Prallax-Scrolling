@@ -1,0 +1,33 @@
+            * {
+                margin: 0px;
+                padding: 0px;
+            }
+
+
+            .container {
+                position:relative;
+               
+                background-color: #ac2424;
+                height: 700px;
+                width: 100%;
+				opacity : 0.3;
+				
+            
+			}
+			.upper {
+			position: relative;
+			   width: 100%;
+			   height: 700px;
+			        background-image: url(img/iron_man.jpg);
+					background-attachment : fixed;
+					background-size : cover;
+ 
+			}
+			.logo{
+			    font-size: 100px;
+				color : white;
+				position: absolute;
+				left : 50%;
+				top: 50%;
+				margin: -59px -240px;
+			}
